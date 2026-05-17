@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual env
+.venv/
+
+# Logs
+logs/
+*.log
+
+# Config (keep local secrets out of repo)
+config/config.yaml
+
+# Build artifacts
+*.egg-info/
+build/
+
+# IDE
+.idea/
+*.swp
